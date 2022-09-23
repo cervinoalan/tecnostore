@@ -1,0 +1,113 @@
+{ "ofertas":[{
+            "id": 7,
+            "imagen": "../images/monitores/monitorLg.jpg",
+            "nombre": "MONITOR LED 19 LG 60HZ",
+            "precio": 90,
+            "cantidad": 1
+        },
+        {
+            "id": 2,
+            "imagen": "../images/discorigido/wd1tb.jpg",
+            "nombre": "DISCO DURO 1TB BLUE WD",
+            "precio": 26,
+            "cantidad": 1
+        },
+        {
+            "id": 6,
+            "imagen": "../images/monitores/monitordaewoo.jpg",
+            "nombre": "MONITOR LED 22 DAEWOO",
+            "precio": 80,
+            "cantidad": 1
+        },
+        {
+            "id": 8,
+            "imagen": "../images/auriculares/hyperxCloud2.jpg",
+            "nombre": "AURICULAR HYPERX CLOUD 2",
+            "precio": 55,
+            "cantidad": 1
+        },
+        {
+            "id": 11,
+            "imagen": "../images/teclados/tecladoKumara.jpg",
+            "nombre": "TECLADO REDRAGON KUMARA K552",
+            "precio": 40,
+            "cantidad": 1
+        }],
+"discosDuros":[{
+    "id": 1,
+    "imagen": "../images/discorigido/seagate1tb.jpg",
+    "nombre": "DISCO DURO 1TB SEAGATE",
+    "precio": 50,
+    "cantidad": 1
+},
+{
+    "id": 2,
+    "imagen": "../images/discorigido/wd1tb.jpg",
+    "nombre": "DISCO DURO 1TB BLUE WD",
+    "precio": 26,
+    "cantidad": 1
+},
+{
+    "id": 3,
+    "imagen": "../images/discorigido/seagate2tb.jpg",
+    "nombre": "DISCO DURO 2TB SEAGATE",
+    "precio": 40,
+    "cantidad": 1
+},
+{
+    "id": 4,
+    "imagen": "../images/discorigido/wd1tbpurple.jpg",
+    "nombre": "DISCO DURO 1TB PURPLE WD",
+    "precio": 20,
+    "cantidad": 1
+},
+{
+    "id": 5,
+    "imagen": "../images/discorigido/seagate2tbsky.jpg",
+    "nombre": "DISCO DURO 2TB SEAGATE",
+    "precio": 30,
+    "cantidad": 1
+}],
+"monitores":[{
+    "id": 6,
+    "imagen": "../images/monitores/monitordaewoo.jpg",
+    "nombre": "MONITOR LED 22 DAEWOO",
+    "precio": 80,
+    "cantidad": 1
+},
+{
+    "id": 7,
+    "imagen": "../images/monitores/monitorLg.jpg",
+    "nombre": "MONITOR LED 19 LG 60HZ",
+    "precio": 90,
+    "cantidad": 1
+}],
+"auriculares":[{
+    "id": 8,
+    "imagen": "../images/auriculares/hyperxCloud2.jpg",
+    "nombre": "AURICULAR HYPERX CLOUD 2",
+    "precio": 55,
+    "cantidad": 1
+},
+{
+    "id": 9,
+    "imagen": "../images/auriculares/auricularLg.jpg",
+    "nombre": "AURICULAR LOGITECH G335",
+    "precio": 40,
+    "cantidad": 1
+}],
+"teclados":[{
+    "id": 10,
+    "imagen": "../images/teclados/tecladoHyperx.jpg",
+    "nombre": "TECLADO GAMER HYPERX ALLOY CORE",
+    "precio": 20,
+    "cantidad": 1
+},
+{
+    "id": 11,
+    "imagen": "../images/teclados/tecladoKumara.jpg",
+    "nombre": "TECLADO REDRAGON KUMARA K552",
+    "precio": 40,
+    "cantidad": 1
+}]
+}

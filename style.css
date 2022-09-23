@@ -1,0 +1,60 @@
+/* fonts */
+/* font-family: 'Roboto', sans-serif; */
+*{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+footer{
+    height: 20vh;
+}
+
+a:hover{
+    color: red;
+}
+
+.logoModif{
+    width: 15vw;
+}
+
+.colorRojo{
+    color: red;
+}
+
+.colorBlanco{
+    color: #fff;
+}
+
+.fondoNegro{
+    background-color: black;
+}
+
+.banner{
+    height: 35vh;
+}
+
+.nav-link:focus, .nav-link:hover{
+    color:#fff
+}
+
+.cardSize{
+    width: 10rem;
+}
+
+.prueba{
+    width: 15%;
+}
+.precio{
+    font-size: 20px;
+}
+
+.modalHide{
+    display: none;
+}
+
+.formCompra input{
+    border: solid #777
+}
